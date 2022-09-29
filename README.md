@@ -10,6 +10,7 @@ Some basic Git commands are:
 **git status**
 **git add**
 **git commit**
+**git push**
 ```
 
 > ***Thanks for checking this repo. Best of Luck!!!!!!!***
