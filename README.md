@@ -1,4 +1,4 @@
-# exercise
+# Exercise
 This is for practise purpose.
 
 This repo doesn't contain any confidential information. This report is only for learning purposes.
