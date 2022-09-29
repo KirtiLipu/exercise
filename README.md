@@ -6,6 +6,7 @@ This repo doesn't contain any confidential information. This report is only for 
 
 Some basic Git commands are:
 ```
+**git fetch**
 **git status**
 **git add**
 **git commit**
